@@ -36,5 +36,5 @@ VITE_APP_BACKEND_URL="http://localhost:8000"
 ```
 # Restart server after adding env variables
 
-# Sign Up with valid email and strong password
+# Sign Up with valid username and strong password
 
