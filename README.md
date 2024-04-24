@@ -15,11 +15,11 @@ Currently, two official plugins are available:
 
 # Start backend server before proceeding
 
-follow steps mentioned at Backend:- https://github.com/scarface68/red-baton-HNserver
+follow steps mentioned at Backend:- https://github.com/scarface68/nahar-om-server
 
 # Installation and starting server
 ```
-git clone https://github.com/scarface68/red-baton-HNclient.git
+git clone https://github.com/scarface68/nahar-om.git
 
 npm install
 
@@ -32,7 +32,7 @@ touch .env
 ```
 # env variables
 ```
-VITE_APP_BACKEND_URL="http://localhost:5000"
+VITE_APP_BACKEND_URL="http://localhost:8000"
 ```
 # Restart server after adding env variables
 
